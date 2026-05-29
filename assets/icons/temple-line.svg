@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 64" role="img" aria-label="寺院線條圖示">
+  <g fill="none" stroke="#8a6846" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 30 36 12l28 18"/>
+    <path d="M16 31h40"/>
+    <path d="M20 36h32"/>
+    <path d="M24 36v16M36 36v16M48 36v16"/>
+    <path d="M16 52h40"/>
+    <path d="M12 58h48"/>
+    <path d="M36 12v-5"/>
+  </g>
+</svg>
