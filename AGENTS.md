@@ -24,6 +24,8 @@ Do not create English or Simplified Chinese pages unless Walter explicitly asks.
 
 Do not change the existing GitHub Pages or custom domain path structure while reserving future multilingual support.
 
+The language switch should be reserved in the page header / top-right area so visitors can find it immediately.
+
 The site is intended to become the central entry point that connects the existing and future Huakwang Temple pages.
 
 Currently completed external pages:
