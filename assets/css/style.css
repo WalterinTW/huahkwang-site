@@ -101,9 +101,14 @@ img {
   letter-spacing: 0;
 }
 
+.brand-logo {
+  width: 92px;
+  height: auto;
+}
+
 .brand-subtitle {
   display: block;
-  margin-top: -4px;
+  margin-top: -2px;
   color: var(--color-muted);
   font-family: Georgia, "Times New Roman", serif;
   font-size: 0.76rem;
@@ -732,8 +737,8 @@ h3 {
     height: 30px;
   }
 
-  .brand-title {
-    font-size: 1rem;
+  .brand-logo {
+    width: 78px;
   }
 
   .site-nav {
