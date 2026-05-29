@@ -8,6 +8,22 @@ This project is the main homepage / entry site for Huakwang Temple.
 
 All naming must use `huakwang`, not `huakuang`.
 
+## Language version planning
+
+This website may later expand into three language versions:
+
+- Traditional Chinese
+- English
+- Simplified Chinese
+
+Currently, only the Traditional Chinese version is maintained.
+
+Do not hard-code Traditional Chinese as the only possible future version.
+
+Do not create English or Simplified Chinese pages unless Walter explicitly asks.
+
+Do not change the existing GitHub Pages or custom domain path structure while reserving future multilingual support.
+
 The site is intended to become the central entry point that connects the existing and future Huakwang Temple pages.
 
 Currently completed external pages:
