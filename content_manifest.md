@@ -4,8 +4,8 @@
 
 ## 已完成外部頁面
 
-- 歷史沿革：https://walterintw.github.io/huakwang-history-site/
-- 華光寺願景：https://walterintw.github.io/huakwang-vision-page/
+- 歷史沿革：https://walterintw.github.io/huahkwang-history-site/
+- 華光寺願景：https://walterintw.github.io/huahkwang-vision-page/
 
 ## 首頁主標語
 
@@ -20,4 +20,4 @@
 
 ## 聯絡表單
 
-首頁使用 FormSubmit 作為靜態網站表單後端。正式上線前，請將 `index.html` 表單中的 `huakwang-temple@example.com` 更換為寺方正式收件信箱，並依照 FormSubmit 的啟用信完成驗證。
+首頁使用 FormSubmit 作為靜態網站表單後端。正式上線前，請將 `index.html` 表單中的 `huah kwang temple@example.com` 更換為寺方正式收件信箱，並依照 FormSubmit 的啟用信完成驗證。

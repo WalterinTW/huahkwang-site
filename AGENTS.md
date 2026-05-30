@@ -2,11 +2,11 @@
 
 ## Project identity
 
-Project name: huakwang-site
+Project name: huah kwang site
 
-This project is the main homepage / entry site for Huakwang Temple.
+This project is the main homepage / entry site for Huah Kwang Temple.
 
-All naming must use `huakwang`, not `huakuang`.
+All naming must use `huah kwang`, not `huakuang`.
 
 ## Language version planning
 
@@ -26,12 +26,12 @@ Do not change the existing GitHub Pages or custom domain path structure while re
 
 The language switch should be reserved in the page header / top-right area so visitors can find it immediately.
 
-The site is intended to become the central entry point that connects the existing and future Huakwang Temple pages.
+The site is intended to become the central entry point that connects the existing and future Huah Kwang Temple pages.
 
 Currently completed external pages:
 
-- History page: https://walterintw.github.io/huakwang-history-site/
-- Vision page: https://walterintw.github.io/huakwang-vision-page/
+- History page: https://walterintw.github.io/huahkwang-history-site/
+- Vision page: https://walterintw.github.io/huahkwang-vision-page/
 
 Future pages will include:
 
@@ -44,13 +44,13 @@ Future pages will include:
 
 ## Project goal
 
-Build a calm, dignified, responsive Traditional Chinese homepage for Huakwang Temple.
+Build a calm, dignified, responsive Traditional Chinese homepage for Huah Kwang Temple.
 
-The homepage should introduce Huakwang Temple as a Buddhist monastery located in Shravasti, India, near Jetavana Grove.
+The homepage should introduce Huah Kwang Temple as a Buddhist monastery located in Shravasti, India, near Jetavana Grove.
 
 The page should serve as a quiet and clear entry point for visitors to understand:
 
-1. Where Huakwang Temple is.
+1. Where Huah Kwang Temple is.
 2. Why its location is meaningful.
 3. What the temple is currently trying to restore and continue.
 4. Which pages are already available.
@@ -64,13 +64,13 @@ It should feel like the entrance courtyard of a quiet Buddhist monastery website
 
 ## Page role
 
-`index.html` is the homepage of the Huakwang Temple main site.
+`index.html` is the homepage of the Huah Kwang Temple main site.
 
 The page should include:
 
 1. Header / navigation
 2. Hero section
-3. Short introduction to Huakwang Temple
+3. Short introduction to Huah Kwang Temple
 4. Main page entry cards
 5. A section about the current restoration and responsibility
 6. A site navigation overview
@@ -253,11 +253,11 @@ Use these completed page URLs:
 
 History page:
 
-https://walterintw.github.io/huakwang-history-site/
+https://walterintw.github.io/huahkwang-history-site/
 
 Vision page:
 
-https://walterintw.github.io/huakwang-vision-page/
+https://walterintw.github.io/huahkwang-vision-page/
 
 The Eight Great Sacred Sites page is not yet completed. Leave it as a coming-soon / preparing section for now.
 
@@ -269,7 +269,7 @@ The Eight Great Sacred Sites page is not yet completed. Leave it as a coming-soo
 
 Include:
 
-- 華光寺 Huakwang Temple
+- 華光寺 Huah Kwang Temple
 - 首頁
 - 歷史沿革
 - 華光寺願景
@@ -301,12 +301,12 @@ Primary buttons:
 
 Button links:
 
-- 認識華光寺 → https://walterintw.github.io/huakwang-history-site/
-- 閱讀華光寺願景 → https://walterintw.github.io/huakwang-vision-page/
+- 認識華光寺 → https://walterintw.github.io/huahkwang-history-site/
+- 閱讀華光寺願景 → https://walterintw.github.io/huahkwang-vision-page/
 
 ------
 
-### 3. Huakwang Temple introduction
+### 3. Huah Kwang Temple introduction
 
 Title:
 
@@ -330,7 +330,7 @@ Status: 已完成
 
 Link:
 
-https://walterintw.github.io/huakwang-history-site/
+https://walterintw.github.io/huahkwang-history-site/
 
 Text:
 
@@ -346,7 +346,7 @@ Status: 已完成
 
 Link:
 
-https://walterintw.github.io/huakwang-vision-page/
+https://walterintw.github.io/huahkwang-vision-page/
 
 Text:
 
@@ -400,13 +400,13 @@ Include six navigation blocks:
 
 1. 歷史沿革
    Status: 已完成
-   Link: https://walterintw.github.io/huakwang-history-site/
+   Link: https://walterintw.github.io/huahkwang-history-site/
 2. 現在的華光寺
    Status: 籌備中
    Description: 組織、常住法師、華光寺使命、寺院環境與設施、活動介紹等內容將陸續整理。
 3. 華光寺願景
    Status: 已完成
-   Link: https://walterintw.github.io/huakwang-vision-page/
+   Link: https://walterintw.github.io/huahkwang-vision-page/
 4. 印度八大聖地介紹
    Status: 整理中，即將開放
    Description: 未來將整理佛陀一生重要聖地與朝禮意義。
@@ -467,7 +467,7 @@ Buttons:
 
 Include:
 
-華光寺 Huakwang Temple
+華光寺 Huah Kwang Temple
 印度舍衛城．祇樹給孤獨園附近
 
 Footer links:
@@ -479,7 +479,7 @@ Footer links:
 
 Copyright:
 
-© Huakwang Temple. All rights reserved.
+© Huah Kwang Temple. All rights reserved.
 
 ------
 
@@ -555,8 +555,8 @@ The task is complete only if:
 3. `assets/js/script.js` exists and is linked correctly.
 4. Local assets use relative paths.
 5. The two completed external links work:
-   - https://walterintw.github.io/huakwang-history-site/
-   - https://walterintw.github.io/huakwang-vision-page/
+   - https://walterintw.github.io/huahkwang-history-site/
+   - https://walterintw.github.io/huahkwang-vision-page/
 6. Unfinished pages are clearly marked as 籌備中 / 整理中 / 即將開放.
 7. The homepage is responsive on desktop and mobile.
 8. Traditional Chinese text is readable and well-spaced.
