@@ -480,6 +480,24 @@ h3 {
   border-left: 3px solid var(--color-gold);
 }
 
+.sacred-cta {
+  display: flex;
+  width: fit-content;
+  margin-top: 28px;
+  margin-right: auto;
+  margin-left: auto;
+  min-width: 220px;
+  padding: 14px 28px;
+  box-shadow: 0 14px 28px rgba(95, 45, 35, 0.14);
+}
+
+.sacred-cta:hover,
+.sacred-cta:focus-visible {
+  background: #74362c;
+  border-color: #74362c;
+  box-shadow: 0 18px 34px rgba(95, 45, 35, 0.18);
+}
+
 .sites-list {
   display: grid;
   gap: 10px;
@@ -506,9 +524,22 @@ h3 {
   font-family: Georgia, "Times New Roman", serif;
 }
 
-.sites-list span {
+.sites-list a {
   color: var(--color-ink);
   font-weight: 700;
+  text-decoration: none;
+  text-underline-offset: 5px;
+}
+
+.sites-list a:hover,
+.sites-list a:focus-visible {
+  color: var(--color-red);
+  text-decoration: underline;
+  text-decoration-color: rgba(125, 62, 50, 0.34);
+}
+
+.sites-list span {
+  color: var(--color-muted);
 }
 
 .closing-inner {
