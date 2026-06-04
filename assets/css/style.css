@@ -83,18 +83,6 @@ img {
   text-decoration: none;
 }
 
-.brand-mark {
-  display: none;
-  width: 34px;
-  height: 34px;
-  border: 1px solid rgba(138, 104, 70, 0.42);
-  border-radius: 50%;
-  background:
-    radial-gradient(circle, transparent 36%, rgba(183, 154, 99, 0.24) 37% 41%, transparent 42%),
-    linear-gradient(90deg, transparent 48%, rgba(125, 62, 50, 0.34) 49% 51%, transparent 52%),
-    linear-gradient(0deg, transparent 48%, rgba(125, 62, 50, 0.34) 49% 51%, transparent 52%);
-}
-
 .brand-title {
   display: block;
   font-size: 1.15rem;
@@ -731,11 +719,6 @@ h3 {
 
   .language-switch {
     max-width: 210px;
-  }
-
-  .brand-mark {
-    width: 30px;
-    height: 30px;
   }
 
   .brand-logo {
