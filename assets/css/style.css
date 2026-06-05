@@ -409,7 +409,7 @@ h3 {
 }
 
 .overview-heading {
-  font-size: clamp(1.65rem, 3vw, 2.5rem);
+  font-size: clamp(1.82rem, calc(3vw + 0.17rem), 2.67rem);
   line-height: 1.45;
 }
 
@@ -445,7 +445,7 @@ h3 {
 }
 
 .overview-item strong {
-  font-size: 1.18rem;
+  font-size: 1.51rem;
 }
 
 .overview-item em {
