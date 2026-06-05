@@ -408,6 +408,11 @@ h3 {
   border-top: 1px solid var(--color-line);
 }
 
+.overview-heading {
+  font-size: clamp(1.65rem, 3vw, 2.5rem);
+  line-height: 1.45;
+}
+
 .overview-item {
   display: grid;
   grid-template-columns: 52px minmax(0, 1fr);
