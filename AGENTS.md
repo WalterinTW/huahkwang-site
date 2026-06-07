@@ -1,5 +1,19 @@
 # AGENTS.md
 
+## Repository workflow
+
+This is the Huah Kwang Temple static website project.
+
+- 修改 HTML / CSS / JS 後，應優先執行 Playwright 檢查。
+- 每次修改網站後，請檢查 desktop 與 mobile layout。
+- 請確認沒有水平 overflow。
+- 請確認 console 沒有 error。
+- 請確認主要導覽連結仍可點。
+- 請保留樸素、低調、莊重的網站風格。
+- 不要大幅重構網站架構，除非 Walter 明確要求。
+- 不要刪除現有內容與圖片，除非 Walter 明確要求。
+- 修改完成後請列出改了哪些檔案，以及 Walter 如何測試。
+
 ## Project identity
 
 Project name: huah kwang site
