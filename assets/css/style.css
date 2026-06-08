@@ -195,8 +195,62 @@ img {
 
 .hero-inner {
   position: relative;
-  max-width: 880px;
   padding: clamp(52px, 8vw, 100px) 0 clamp(72px, 9vw, 112px);
+}
+
+.hero-copy {
+  max-width: 100%;
+}
+
+.hero-visual {
+  position: relative;
+  z-index: 1;
+  float: right;
+  width: clamp(280px, 34vw, 420px);
+  margin: -22px 0 24px clamp(30px, 5vw, 72px);
+  padding: clamp(12px, 2vw, 18px);
+  background:
+    linear-gradient(180deg, rgba(255, 253, 248, 0.52), rgba(232, 223, 208, 0.34)),
+    rgba(255, 253, 248, 0.42);
+  border: 1px solid rgba(138, 104, 70, 0.26);
+  border-radius: 6px;
+  box-shadow: 0 24px 60px rgba(62, 49, 35, 0.16);
+}
+
+.hero-visual::before {
+  position: absolute;
+  inset: -18px 22px auto auto;
+  width: 72%;
+  height: 46%;
+  content: "";
+  background: rgba(183, 154, 99, 0.12);
+  border: 1px solid rgba(183, 154, 99, 0.18);
+  border-radius: 6px;
+  transform: translateY(-8px);
+}
+
+.hero-visual img {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 5.42;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 4px;
+  filter: sepia(0.12) saturate(0.86) contrast(0.96);
+}
+
+.hero-visual figcaption {
+  position: relative;
+  margin-top: 12px;
+  color: var(--color-muted);
+  font-size: 0.88rem;
+  text-align: center;
+}
+
+.hero-copy::after {
+  display: block;
+  clear: both;
+  content: "";
 }
 
 .eyebrow,
@@ -718,6 +772,34 @@ h3 {
     grid-template-columns: 1fr;
   }
 
+  .hero-copy {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hero-copy .eyebrow {
+    order: 1;
+  }
+
+  .hero-copy h1 {
+    order: 2;
+  }
+
+  .hero-text {
+    order: 3;
+  }
+
+  .hero-copy .button-row {
+    order: 4;
+  }
+
+  .hero-visual {
+    order: 5;
+    float: none;
+    width: min(100%, 460px);
+    margin: 30px 0 24px;
+  }
+
   .entry-grid {
     grid-template-columns: 1fr;
   }
@@ -771,6 +853,10 @@ h3 {
 
   .hero-inner {
     padding-top: 70px;
+  }
+
+  .hero-visual {
+    padding: 10px;
   }
 
   .button,
