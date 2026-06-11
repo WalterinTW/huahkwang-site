@@ -344,6 +344,21 @@ h3 {
   border-color: rgba(138, 104, 70, 0.36);
 }
 
+.hero .button-row .button:hover,
+.hero .button-row .button:focus-visible {
+  color: #fffdf8;
+  background: var(--color-red);
+  border-color: var(--color-red);
+  outline: 2px solid rgba(125, 62, 50, 0.22);
+  outline-offset: 3px;
+}
+
+.hero .button-row .button:active {
+  color: #fffdf8;
+  background: #74362c;
+  border-color: #74362c;
+}
+
 .two-column {
   display: grid;
   grid-template-columns: minmax(220px, 0.82fr) minmax(0, 1.18fr);
