@@ -4,7 +4,7 @@ const expectedNavLinks = [
   { name: "首頁", href: "#top" },
   { name: "歷史沿革", href: "https://walterintw.github.io/huahkwang-history-site/" },
   { name: "華光寺願景", href: "https://walterintw.github.io/huahkwang-vision-page/" },
-  { name: "現在的華光寺", href: "#now" },
+  { name: "現在的華光寺", href: "https://walterintw.github.io/huahkwang-today/" },
   { name: "印度八大聖地", href: "https://walterintw.github.io/huahkwang-sacred-sites/" },
   { name: "交通與聯絡", href: "#contact" }
 ];
